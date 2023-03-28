@@ -1,0 +1,5 @@
+{
+  "codexManuscriptWordcount.defaultSessionGoal": 1000,
+  "codexManuscriptWordcount.defaultManuscriptGoal": 15000,
+  "codexManuscriptWordcount.resetSessionOnStart": false
+}

@@ -1,0 +1,1 @@
+word word word word word word word w w w d d d 
