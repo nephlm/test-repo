@@ -4,5 +4,5 @@
   "codexManuscriptWordcount.resetSessionOnStart": false,
   "codex-autocommit.active": true,
   "codex-autocommit.intervalMinutes": 1,
-  "codexManuscriptWordcount.globPatterns": []
+  "codexManuscriptWordcount.globPatterns": ["*.md", "*.tex"]
 }
